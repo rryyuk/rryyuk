@@ -9,7 +9,7 @@
 
 - 👯 Trying to improve **problem solving**
 
-- 🤝 I’m looking for **Open source contribution**
+- 🤝 I’m looking for **Open source contribution** 
 
 - 📫 How to reach me **agranshul09@gmail.com**
 
