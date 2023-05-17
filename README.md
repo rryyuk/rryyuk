@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB**
 
-- 👯 Trying to improve **problem solving**
+- 👯 Trying to improve **problem solving** 
  
 - 🤝 I’m looking for **Open source contribution opportunity** 
 
