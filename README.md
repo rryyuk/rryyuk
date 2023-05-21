@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An Varanasi tourism site**
 
-- 🌱 I’m currently learning **React, MongoDB** 
+- 🌱 I’m currently learning **React, MongoDB**  
 
 - 👯 Trying to improve **problem solving** 
  
