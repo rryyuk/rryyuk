@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **agranshul09@gmail.com**
 
-- ⚡ Fun fact **I am into 3D modeling as well**
+- ⚡ Fun fact **I am into 3D modeling as well** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
