@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **An Varanasi tourism site**
  
 - 🌱 I’m currently learning **React, MongoDB**  
-
+ 
 - 👯 Trying to improve **problem solving**  
  
 - 🤝 I’m looking for **Open source contribution opportunity**  
